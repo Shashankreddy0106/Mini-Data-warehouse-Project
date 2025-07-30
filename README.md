@@ -21,10 +21,6 @@ This is a **Mini Data Warehouse project** designed to simulate a retail business
 - SQL (MySQL or PostgreSQL)
 - GitHub (for code and documentation)
 
----
-
-## 🧱 Database Schema Diagram  
-*(Insert screenshot from draw.io here if available)*
 
 
 ---
