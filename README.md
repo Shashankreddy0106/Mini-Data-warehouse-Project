@@ -18,7 +18,7 @@ This is a **Mini Data Warehouse project** designed to simulate a retail business
 ---
 
 ## 🛠 Tech Stack
-- SQL (MySQL or PostgreSQL)
+- SQL (Microsoft SQL Server)
 - GitHub (for code and documentation)
 
 
